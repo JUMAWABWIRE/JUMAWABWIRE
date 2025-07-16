@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Juma Wabwire
 
-<!--
-**JUMAWABWIRE/JUMAWABWIRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | SQL • Python • Power BI • Excel | Turning data into actionable insights**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate data analyst with a keen eye for detail and a love for storytelling through data. I specialize in extracting, transforming, and visualizing data to help organizations make informed decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tools & Technologies
+
+- **Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **Data Visualization**: Power BI, Tableau, Excel
+- **Databases**: MySQL, PostgreSQL, SQLite
+- **Other**: Excel (PivotTables, Power Query), Git, Jupyter Notebook
+
+---
+
+## 📊 Featured Projects
+
+### 📌 [Sales Performance Dashboard – Power BI](https://github.com/JumaWabwire/sales-dashboard)
+Interactive Power BI dashboard analyzing sales trends, regional performance, and product profitability.
+
+### 📌 [Customer Churn Analysis – Python](https://github.com/JumaWabwire/customer-churn-analysis)
+Logistic regression model predicting customer churn. Includes EDA, feature engineering, and model evaluation.
+
+### 📌 [SQL Analytics Portfolio](https://github.com/JumaWabwire/sql-projects)
+Real-world SQL queries and case studies for KPIs, customer segmentation, and cohort analysis.
+
+---
+
+## 📈 What I'm Working On
+
+- 📚 Deepening skills in **machine learning for analytics**
+- 🛠 Automating reporting workflows using **Python**
+- 💡 Exploring **advanced Power BI DAX** functions
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/juma-jackson-73b411320/)
+- 🌐 [Email](jackson.jumswabwire@gmail.com)
+
+---
+
+_“Without data, you're just another person with an opinion.” – W. Edwards Deming_
+
