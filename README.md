@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Juma Wabwire
+# 👋 Hello, I'm Juma Wabwire
 
-🎯 **Data Analyst | SQL • Python • Power BI • Excel | Turning data into actionable insights**
+ **Data Analyst | SQL • Python • Power BI • Excel | Turning data into actionable insights**
 
 Welcome to my GitHub! I'm a passionate data analyst with a keen eye for detail and a love for storytelling through data. I specialize in extracting, transforming, and visualizing data to help organizations make informed decisions.
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 - **Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
 - **Data Visualization**: Power BI, Tableau, Excel
@@ -15,15 +15,15 @@ Welcome to my GitHub! I'm a passionate data analyst with a keen eye for detail a
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
-### 📌 [Aviation_Accident_Analysis– Python](https://github.com/JUMAWABWIRE/Aviation_Accident_Analysis)
+###  [Aviation_Accident_Analysis– Python](https://github.com/JUMAWABWIRE/Aviation_Accident_Analysis)
 Analysis of the aviation accidents from 1950s to 2023 using python pandas, matplotlib, seaborn and Numpy.
 
-### 📌 [Customer Churn Analysis – Power Bi](https://github.com/JUMAWABWIRE/Customer_Churn_Analysis)
+###  [Customer Churn Analysis – Power Bi](https://github.com/JUMAWABWIRE/Customer_Churn_Analysis)
 Analysis of customer trends using Power Bi and DAX to cover insights on customer behavioral business related.
 
-### 📌 [International Debt Analysis- SQL](https://github.com/JUMAWABWIRE/International-Debt-Analysis)
+###  [International Debt Analysis- SQL](https://github.com/JUMAWABWIRE/International-Debt-Analysis)
 Debts analysis from different countries that countries owe or have taken from World Bank using SQL queries.
 
 
@@ -32,11 +32,11 @@ Analysis of the Human Resource Data to cover using SQL Queries to cover the tren
 
 ---
 
-## 📈 What I'm Working On
+##  What I'm Working On
 
-- 📚 Deepening skills in **machine learning for analytics**
-- 🛠 Automating reporting workflows using **Python**
-- 💡 Exploring **advanced Power BI DAX** functions
+-  Deepening skills in **machine learning for analytics**
+-  Automating reporting workflows using **Python**
+-  Exploring **advanced Power BI DAX** functions
 
 ---
 
