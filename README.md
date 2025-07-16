@@ -23,8 +23,8 @@ Analysis of the aviation accidents from 1950s to 2023 using python pandas, matpl
 ### 📌 [Customer Churn Analysis – Python](https://github.com/JumaWabwire/customer-churn-analysis)
 Logistic regression model predicting customer churn. Includes EDA, feature engineering, and model evaluation.
 
-### 📌 [SQL Analytics Portfolio](https://github.com/JumaWabwire/sql-projects)
-Real-world SQL queries and case studies for KPIs, customer segmentation, and cohort analysis.
+### 📌 [International Debt Analysis- SQL](https://github.com/JUMAWABWIRE/International-Debt-Analysis)
+Debts analysis from different countries that countries owe or have taken from World Bank using SQL queries.
 
 ---
 
