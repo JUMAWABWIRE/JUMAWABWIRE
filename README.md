@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Juma Wabwire
+# 👋 Hello, I'm Jackson Juma
 
  **Data Analyst | SQL • Python • Power BI • Excel | Turning data into actionable insights**
 
